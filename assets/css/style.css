@@ -1,0 +1,56 @@
+html, body{
+    height:100%;
+  }
+  
+  body{
+    background-image: url(../images/office.jpg);
+    text-align: center;
+  
+  }
+  #wrapper{
+    margin:2% auto;
+    background-color: navy;
+    width:950px;
+    height: 100%;
+    box-sizing: border-box;
+    opacity: 0.9;
+  }
+  
+
+  button{
+    display:block;
+    width:50%;
+    height:20%;
+    margin: 0 auto;
+    border:none;
+    font-size: 38px;;
+  }
+  
+  img{
+    height:200px;
+  }
+  
+  h1{
+    font-family: 'helvetica', 'sans-serif';
+    font-size: 7em;
+    font-weight: bold;
+    color:white;
+    padding-top: 2.5%;
+  }
+  
+  h2{
+    font-size: 35px;
+    margin-bottom: 25px;
+  }
+  
+  h3{
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  
+  #start{
+    margin-top: 10%;
+    border:2px solid black;
+    background:white;
+  }
+  
